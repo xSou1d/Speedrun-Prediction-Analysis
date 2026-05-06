@@ -140,6 +140,18 @@
 
 # 
 
+# \## Collaboration Note
+
+# 
+
+# This project was completed as a two-person academic final project. My contributions were the core modeling pipeline (model family evaluation, nonlinear curve fitting, model selection methodology) and the majority of visualizations. My partner contributed the correlation analysis, improvement rate statistics, the Power Law Fit visualization, and led the written analysis. The README and modeling code reflect my individual work within the collaboration.
+
+# 
+
+# \---
+
+# 
+
 # \## How to Run
 
 # 
